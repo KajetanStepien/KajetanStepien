@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kajetan
-### A passionate frontend developer from Poland
+### Constantly learning and developing Frontend Developer
 
 ## Connect with me:
 [LinkedIn - Kajetan Stępień](https://www.linkedin.com/in/kajetan-stepien/)
