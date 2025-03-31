@@ -1,4 +1,4 @@
-# Hi, I'm Kajetan
+# Kajetan Stępień
 ### Constantly learning and developing Frontend Developer
 
 ## Connect with me:
