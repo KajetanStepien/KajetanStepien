@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kajetan
+# Hi, I'm Kajetan
 ### Constantly learning and developing Frontend Developer
 
 ## Connect with me:
